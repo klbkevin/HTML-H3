@@ -1,0 +1,61 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+}
+header{
+    background: #93b5c9;
+    height: 80px;
+}
+
+main{
+    background: #AB2849;
+    height: 150px;
+    margin: 0 0 10px 0;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: space-around; 
+    align-items: center;
+    height: 8vw; 
+    margin-left: 150px;
+    margin-right: 150px;
+   }
+   
+   .rectangulo {
+    width: 1000px; 
+    height: 100px; 
+    margin: 5px;
+   }
+   
+   .rectangulo1 {
+    background-color: #AB2849; 
+  
+   }
+   
+   .rectangulo2 {
+    background-color: #AB2849; 
+  
+   }
+
+   .container {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    height: 10vw; 
+    margin-left: 150px;
+    margin-right: 150px;
+   }
+   
+   .recta{
+    width: 1000px; 
+    height: 100px; 
+    background-color: #AB2849;
+    margin: 6px;
+   }
+
+   footer{
+    background: #AB2849;
+    height: 120px;
+    margin-top: 20px;
+}
